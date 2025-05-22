@@ -7,6 +7,7 @@ Some countries like the United States, United Kingdom, China, Australia, India, 
 
 2. Global Cyber Law Frameworks: Leading Examples
 2.1 United States
+   
 The United States has several cyber laws that are spread across different areas:
 •	The Computer Fraud and Abuse Act (CFAA) punishes hacking and unauthorized access.
 •	The Cybersecurity Information Sharing Act (CISA) allows companies to share threat information with the government.
